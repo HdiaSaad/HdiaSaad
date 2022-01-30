@@ -17,7 +17,7 @@
 [<img align="left" alt="hdia saad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hdia saad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hdia saad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left"  alt="hdia saad | YouTube" width="22px" src="https://cdn.worldvectorlogo.com/logos/upwork.svg" />][upwork]
+[<img align="left"  alt="hdia saad | YouTube" width="22px" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" />][upwork]
 
 <br />
 
@@ -56,7 +56,7 @@
 
 
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
 [upwork]:"https://www.upwork.com/freelancers/~012481560e01b7b396"
 [twitter]: https://twitter.com/hdia_saad
 [youtube]: https://youtube.com/codeitmyway
