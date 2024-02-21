@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
@@ -49,6 +49,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Aytriqi  Mobile APP (Android And Ios) ](https://apps.apple.com/tt/app/aytriqi/id1597204815)
 - [Aytriqi  Web Front-end and back-end](https:aytriqi.ma)
+- [Sqli Dummper Gold the new version 2024](http://scsstore.rf.gd)
+- [Viral6ix Ecomerce Shop ](http://viral6ix.com)
+- [ scsinfo business website ](http://scsinfo.ma)
 
 <!-- BLOG-POST-LIST:END -->
 
