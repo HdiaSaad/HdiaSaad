@@ -47,11 +47,13 @@
 ### 📕 Latest Project
 
 <!-- BLOG-POST-LIST:START -->
+- [Alibaba Restaurant Web & ( QR Menu ) ](https://villaalibaba.com/)
+- [ scsinfo business website ](http://scsinfo.ma)
 - [Aytriqi  Mobile APP (Android And Ios) ](https://apps.apple.com/tt/app/aytriqi/id1597204815)
 - [Aytriqi  Web Front-end and back-end](https:aytriqi.ma)
 - [Sqli Dummper Gold the new version 2024](http://scsstore.rf.gd)
 - [Viral6ix Ecomerce Shop ](http://viral6ix.com)
-- [ scsinfo business website ](http://scsinfo.ma)
+
 
 <!-- BLOG-POST-LIST:END -->
 
