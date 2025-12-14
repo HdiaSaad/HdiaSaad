@@ -33,8 +33,6 @@ I'm currently deepening my knowledge in backend development with **Go** and expl
 
 ## 📫 Connect with me
 
-- **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-
 - **Email:** saad.hdia@gmail.com
 
 ---
