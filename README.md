@@ -15,7 +15,6 @@
 
 Tech Lead and Full-Stack Developer with **8+ years of experience** spanning software development, L2/L3 application support, databases, and cloud infrastructure. I'm the founder of **OasisNest Technologies**, where I design and ship end-to-end SaaS products (healthcare, veterinary) and **generative-AI solutions**: LLM agents, RAG pipelines, voice-model orchestration, and process automation.
 
-Canadian Permanent Resident (finalizing) — authorized to work immediately, no work permit or sponsorship required.
 
 ---
 
