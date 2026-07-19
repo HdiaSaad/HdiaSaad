@@ -106,10 +106,6 @@ Canadian Permanent Resident (finalizing) — authorized to work immediately, no 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HdiaSaad&show_icons=true&theme=tokyonight&hide_border=true" alt="Saad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HdiaSaad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HdiaSaad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HdiaSaad&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
